@@ -16,4 +16,4 @@ Ejercicios y proyectos de Python por unidad. Cada carpeta es independiente; no h
 - Solo librería estándar salvo que el ejercicio diga otra cosa.
 
 ## Notas
-- Hay `__pycache__/*.pyc` subidos: no añadas más.
+- `__pycache__/` y `*.pyc` están en `.gitignore`.
