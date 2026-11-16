@@ -23,4 +23,4 @@ El contenido se organiza de manera modular por unidades y bloques de aprendizaje
 
 ## 👨‍💻 Autor
 
-* **Autor:** José Antonio Pastor Rivera (`joseantoniopastorrivera-creator`)
+* **Autor:** José Antonio Pastor Rivera (`joseantoniopastorrivera-dev`)
